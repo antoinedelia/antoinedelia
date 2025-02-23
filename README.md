@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Cloud DevOps Engineer from __France__  with knowledge of a wide variety of languages and tools. I studied __Computer Science__ at __Cesi Toulouse__ from 2013-2018.
+I am a Cloud & DevOps Engineer from __France__ with knowledge of a wide variety of languages and tools. I studied __Computer Science__ at __Cesi Toulouse__ from 2013-2018.
 
 For more information about my experience and my skills, be sure to check [my website](https://antoinedelia.fr). To check out some of my work, you can check out some of [my repositories](https://github.com/antoinedelia?tab=repositories) or find interesting posts on my [professional blog](https://cloud.antoinedelia.fr/en).
 
@@ -33,4 +33,5 @@ I am always looking for new opportunities. If you would like to get into contact
 
 ## GitHub
 
-[![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinedelia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Antoine's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antoinedelia&theme=dark&hide_border=false)
+
