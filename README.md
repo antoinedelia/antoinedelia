@@ -33,5 +33,5 @@ I am always looking for new opportunities. If you would like to get into contact
 
 ## GitHub
 
-![Antoine's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antoinedelia&theme=dark&hide_border=false)
+![Antoine's GitHub stats](https://github-readme-streak-stats-eight.vercel.app/?user=antoinedelia&theme=tokyonight&hide_border=false)
 
