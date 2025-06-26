@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am a **Cloud & DevOps Engineer** from __France__ with knowledge of a wide variety of languages and tools.
 
-Wanna work with me? [Lets' talk!](https://antoinedelia.fr/)
+Wanna work with me? [Let's talk!](https://antoinedelia.fr/)
 
 To check out some of my work, you can check out some of [my repositories](https://github.com/antoinedelia?tab=repositories) or find interesting posts on my [professional blog](https://cloud.antoinedelia.fr/en).
 
